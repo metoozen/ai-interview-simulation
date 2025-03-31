@@ -1,0 +1,9 @@
+openai
+groq
+pyttsx3
+SpeechRecognition
+pydub
+json5
+pandas
+gtts
+playsound==1.2.2
